@@ -1,0 +1,2 @@
+# SBT-DF203_Lab9_WEP40-Wireless-Packet-Decryption-and-Aircrack-Forensics
+Network and wireless forensics analysis of IEEE 802.11 frames, WEP40 packet decryption, and keystream recovery on the CodeGate CTF "Good Crypto" dataset. Features offline payload extraction using Aircrack-ng and Airdecap-ng, IV reuse and RC4 weakness evaluation, protocol field dissections, and File/HTML/Image carving via Foremost and TShark.
